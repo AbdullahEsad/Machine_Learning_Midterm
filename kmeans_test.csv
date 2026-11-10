@@ -1,0 +1,5 @@
+Dataset,Representation,Seed,Cluster Counts,Test ARI,Test Silhouette
+Breast Cancer,unscaled,42,"{0: 86, 1: 28}",0.5584884553059529,0.7119990457943489
+Breast Cancer,scaled,42,"{0: 74, 1: 40}",0.7353808445227874,0.3250621931086193
+Wine,unscaled,42,"{0: 14, 2: 12, 1: 10}",0.3733228463033219,0.49288000001742077
+Wine,scaled,42,"{0: 13, 1: 13, 2: 10}",0.9087939960390535,0.27111968980089884

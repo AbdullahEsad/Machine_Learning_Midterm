@@ -1,0 +1,3 @@
+Dataset,Selected Configuration,Evaluation Seed,Val Macro-F1 (Mean),Val Macro-F1 (Std),Test Accuracy,Test Macro-Precision,Test Macro-Recall,Test Macro-F1,Test ROC-AUC
+Breast Cancer,KNN_scaled_k7,42,0.9676749826749828,0.029718024557980914,0.9736842105263158,0.98,0.9642857142857143,0.9712773998488284,0.9887566137566137
+Wine Classification,KNN_scaled_k11,42,0.9813519813519814,0.032299315758860164,1.0,1.0,1.0,1.0,1.0
