@@ -82,4 +82,4 @@ kmeans_runs.csv / kmeans_summary.csv / kmeans_test.csv - Exported results for K-
 
 GitHub Repository: https://github.com/AbdullahEsad/Machine_Learning_Midterm
 
-Project Presentation Video: https://youtu.be/2DSj2LPIGTg
+Project Presentation Video: [https://youtu.be/2DSj2LPIGTg](https://youtu.be/K-Wl9zv3hk0)    
